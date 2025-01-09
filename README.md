@@ -32,6 +32,7 @@ I am fascinated by the field of artificial intelligence and aspire to become a m
 
 ## Contact Information
 - **Email**: [hanhanguaizj@gmail.com]
+- **Blog**: [jing](https://jingz.us.kg/)
 - **GitHub**: [hhgzeng](https://github.com/hhgzeng)
 - **Codeforces**: [hhgzeng](https://codeforces.com/profile/hhgzeng)
 
