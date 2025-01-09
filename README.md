@@ -32,8 +32,8 @@ I am fascinated by the field of artificial intelligence and aspire to become a m
 
 ## Contact Information
 - **Email**: [Gmail: hanhanguaizj@gmail.com]
-- **GitHub**: [hhgzeng]
-- **Codeforces**: [hhgzeng]
+- **GitHub**: [hhgzeng][https://github.com/hhgzeng]
+- **Codeforces**: [hhgzeng][https://codeforces.com/profile/hhgzeng]
 
 ### Future Prospects
 I will continue to deeply learn artificial intelligence knowledge, continuously improve my programming skills and practical experience. I plan to participate in more open-source projects, learn and progress with other developers, and hope to have more exchanges and cooperation with experts and peers in the field of artificial intelligence. I believe that through continuous efforts and practice, I can achieve more outstanding results in the field of artificial intelligence and lay a solid foundation for achieving my career goals.
