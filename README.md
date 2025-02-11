@@ -3,14 +3,14 @@
 ## 🌟 关于我
 
 <div align="center">
-<a href="https://jingz.us.kg" target="_blank"><img src="https://img.shields.io/badge/Blog-博客-%231677ff?style=flat"/></a>
+<a href="https://jingz.us.kg"><img src="https://img.shields.io/badge/Blog-博客-%231677ff?style=flat"/></a>
 <a href="https://wakatime.com/@hhgzeng"><img src="https://wakatime.com/badge/user/hhgzeng.svg"></a>
 </div>
 
 ## 📚 我的项目
 
-- [竞赛模板](https://github.com/hhgzeng/Programming-Template) - C++ 编程竞赛模板
 - [个人博客](https://github.com/hhgzeng/hhgzeng.github.io) - 个人博客
+- [竞赛模板](https://github.com/hhgzeng/ProgrammingTemplate) - C++ 编程竞赛模板
 - [房产销售管理系统](https://github.com/hhgzeng/RealEstateManagement) - 数据库课设
 
 ## 🛠️ 技术栈
