@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Zeng Jing
+# 👋 Hi there, I'm Jing
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&count_private=true" alt="YourName's GitHub Stats" />
 
