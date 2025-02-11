@@ -2,8 +2,10 @@
 
 ## 🌟 关于我
 
-<a href="https://jingz.us.kg" target="_blank"><img  align=center src="https://img.shields.io/badge/Blog-博客-%231677ff?style=flat"/></a>
-<a href="https://wakatime.com/@waka_c9b7cf44-94b9-494c-b82f-cafcf60b8a7b"><img align="center" src="https://wakatime.com/badge/user/waka_c9b7cf44-94b9-494c-b82f-cafcf60b8a7b.svg" ></a>
+<div align="center">
+<a href="https://jingz.us.kg" target="_blank"><img src="https://img.shields.io/badge/Blog-博客-%231677ff?style=flat"/></a>
+<a href="https://wakatime.com/@waka_22d665c4-b27c-4a76-be1d-6ac718baab6e"><img src="https://wakatime.com/badge/user/waka_22d665c4-b27c-4a76-be1d-6ac718baab6e.svg"></a>
+</div>
 
 ## 📚 我的项目
 
@@ -12,6 +14,8 @@
 - [房产销售管理系统](https://github.com/hhgzeng/RealEstateManagement) - 数据库课设
 
 ## 🛠️ 技术栈
+
+<div align="center">
 
 <!-- 数据库 -->
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> 
@@ -27,7 +31,9 @@
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
 
 <!-- AI -->
-<img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChatGPT-202123?style=for-the-badge&logo=openai&logoColor=white"/>
+
+</div>
 
 ## 📊 GitHub 统计
 
