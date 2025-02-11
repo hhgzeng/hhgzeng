@@ -3,8 +3,8 @@
 ## 🌟 关于我
 
 <div align="center">
-<a href="https://jingz.us.kg"><img src="https://img.shields.io/badge/Blog-博客-%231677ff?style=flat"/></a>
-<a href="https://wakatime.com/@hhgzeng"><img src="https://wakatime.com/badge/user/hhgzeng.svg"></a>
+<a href="https://jingz.us.kg" target="_blank"><img src="https://img.shields.io/badge/Blog-博客-%231677ff?style=flat"/></a>
+<a href="https://wakatime.com/@hhgzeng" target="_blank"><img src="https://wakatime.com/badge/user/hhgzeng.svg"></a>
 </div>
 
 ## 📚 我的项目
