@@ -14,12 +14,12 @@ I'm a passionate developer who loves building cool projects and contributing to 
 
 ### 🏆 Achievements
 
-- 📦 Total Repositories: ![GitHub Repo Count](https://img.shields.io/github/repositories/hhgzeng)
+- 📦 Total Repositories: ![GitHub Repo Count](https://custom-icon-badges.demolab.com/github/repos/hhgzeng?logo=repo)
 - ⭐ Total Stars: ![GitHub Stars](https://img.shields.io/github/stars/hhgzeng?style=social)
-- 🚀 Contributions Last Year: ![GitHub Contributions](https://img.shields.io/github/contributions/hhgzeng)
+- 📚 Total Followers: ![GitHub Followers](https://img.shields.io/github/followers/hhgzeng?style=social)
+- 🚀 Contributions Last Year: ![GitHub Contribution Graph](https://ghchart.rshah.org/hhgzeng)
 
 ### 📈 Activity Overview
 
 <!-- WakaTime Stats -->
-[![wakatime](https://wakatime.com/badge/user/your-wakatime-username.svg)](https://wakatime.com/@your-wakatime-username)
-
+[![wakatime](https://wakatime.com/badge/user/hhgzeng.svg)](https://wakatime.com/@hhgzeng)
