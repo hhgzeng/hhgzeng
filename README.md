@@ -4,7 +4,7 @@
 
 <div align="center">
 <a href="https://jingz.us.kg" target="_blank"><img src="https://img.shields.io/badge/Blog-博客-%231677ff?style=flat"/></a>
-<a href="https://wakatime.com/@waka_22d665c4-b27c-4a76-be1d-6ac718baab6e"><img src="https://wakatime.com/badge/user/waka_22d665c4-b27c-4a76-be1d-6ac718baab6e.svg"></a>
+<a href="https://wakatime.com/@hhgzeng"><img src="https://wakatime.com/badge/user/hhgzeng.svg"></a>
 </div>
 
 ## 📚 我的项目
