@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm Jing
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&count_private=true" alt="YourName's GitHub Stats" />
-
 ## 🌟 About Me
 
 I'm a passionate developer who loves building cool projects and contributing to open-source. Here are some of my stats:
