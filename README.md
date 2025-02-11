@@ -1,40 +1,59 @@
-# Personal Profile
+# 👋 Hi there, I'm Zeng Jing
 
-## Basic Information
-- **Name**: [Jing Zeng]
-- **School**: Guangdong University of Technology
-- **Major**: [Computer Science and Technology]
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&count_private=true" alt="YourName's GitHub Stats" />
 
-## Interests
-I have a strong passion for programming, particularly in Python and C++. These languages have opened the door to the world of computers for me, allowing me to explore various interesting projects and solve complex problems. I have been working hard to learn and improve my skills in these two fields, and I enjoy using them to implement a wide range of functions, from simple scripting to complex system development.
+## 🌟 About Me
 
-## Competition Achievements
-In programming competitions, I have demonstrated exceptional strength and won several important awards:
-- **National Awards**: [Robocom National First Prize, Blue Bridge Cup National Second Prize], which is a high recognition of my programming ability and the result of my continuous efforts to learn and practice. In the competition, I need to apply the knowledge of algorithms and data structures, as well as proficient programming language skills, to work closely with team members to solve a series of challenging problems. Through this competition, I not only improved my programming level but also learned how to effectively collaborate in a high-pressure environment.
-- **Provincial Awards**: [Silver Award in the Guangdong College Student Programming Design Competition], which further solidified my programming foundation and made me more confident in pursuing higher goals. It allowed me to recognize my strengths in algorithm optimization, code implementation speed, and program debugging, while also identifying areas for improvement, motivating me to continuously progress.
+I'm a passionate developer who loves building cool projects and contributing to open-source. Here are some of my stats:
 
-## Career Goals
-I am fascinated by the field of artificial intelligence and aspire to become a master in this area. Artificial intelligence is a field full of infinite possibilities, and it is transforming our world, from autonomous driving to medical diagnosis, from intelligent assistants to financial forecasting, with its presence everywhere. ChatGPT has given me a deeper understanding of the powerful capabilities of artificial intelligence, inspiring me to delve into this field. I hope to deeply learn various artificial intelligence technologies, including but not limited to machine learning, deep learning, natural language processing, etc., and contribute to the development of artificial intelligence in the future.
+### 📊 GitHub Stats
 
-## Project Experience
-- [Real Estate Sales Management System]: [Utilizing Python's Django framework, frontend Vue framework, and MySQL database, completed with AI assistance]
-- [Blog]: [Personal blog setup using Hexo framework, Butterfly theme, completed on Github Pages]
-- [AIME]: [In planning: Intend to use Django+React+MySQL, complete through API calls to popular large models such as ChatGPT, Gemini, and DeepSeek, to implement an AI dialogue software]
-- [Future Prospects...]: []
+<!-- GitHub Stats Card -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&count_private=true)
 
-## Skills
-- **Programming Languages**:
-  - Python: Proficient in Python, able to use Python for data processing, web crawling, machine learning, and deep learning development, familiar with commonly used Python libraries such as NumPy, Pandas, TensorFlow, PyTorch, etc.
-  - C++: Rich experience in C++ development, familiar with object-oriented programming, STL library, able to develop efficient and reliable C++ applications, skilled in using C++ for system-level programming and performance optimization.
-- **Tools and Frameworks**:
-  - Git: Proficient in using Git for version control, able to manage code, merge branches, resolve conflicts, and other operations, familiar with the GitHub platform, using it to showcase projects and collaborate with others.
-  - IDE: Familiar with development environments such as Visual Studio Code, Cursor, Sublime Text4, able to develop, debug, and test code efficiently.
+<!-- Most Used Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
-## Contact Information
-- **Email**: [hanhanguaizj@gmail.com]
-- **Blog**: [jing](https://jingz.us.kg/)
-- **GitHub**: [hhgzeng](https://github.com/hhgzeng)
-- **Codeforces**: [hhgzeng](https://codeforces.com/profile/hhgzeng)
+### 🏆 Achievements
 
-### Future Prospects
-I will continue to deeply learn artificial intelligence knowledge, continuously improve my programming skills and practical experience. I plan to participate in more open-source projects, learn and progress with other developers, and hope to have more exchanges and cooperation with experts and peers in the field of artificial intelligence. I believe that through continuous efforts and practice, I can achieve more outstanding results in the field of artificial intelligence and lay a solid foundation for achieving my career goals.
+- 📦 Total Repositories: ![GitHub Repo Count](https://img.shields.io/github/repositories/your-github-username)
+- ⭐ Total Stars: ![GitHub Stars](https://img.shields.io/github/stars/your-github-username?style=social)
+- 🚀 Contributions Last Year: ![GitHub Contributions](https://img.shields.io/github/contributions/your-github-username)
+
+### 📈 Activity Overview
+
+<!-- WakaTime Stats -->
+[![wakatime](https://wakatime.com/badge/user/your-wakatime-username.svg)](https://wakatime.com/@your-wakatime-username)
+
+### 🌐 My Projects
+
+Here are some of the projects I've worked on:
+
+- **Project 1**: [Repo Link](https://github.com/your-github-username/project1) - Description of Project 1.
+- **Project 2**: [Repo Link](https://github.com/your-github-username/project2) - Description of Project 2.
+- **Project 3**: [Repo Link](https://github.com/your-github-username/project3) - Description of Project 3.
+
+### 🤝 Contributions
+
+I actively contribute to open-source projects. You can check out my recent contributions below:
+
+<!-- GitHub Contribution Graph -->
+![GitHub Contribution Graph](https://ghchart.rshah.org/your-github-username)
+
+---
+
+### 📫 How to Reach Me
+
+- Email: hanhanguaizj@gmail.com
+- Twitter: [@jingz365](https://x.com/jingz365)
+- Facebook: [@Zeng Jing](https://www.facebook.com/jingz365)
+
+---
+
+### 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+*This README is dynamically updated using GitHub Actions and third-party services like [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) and [WakaTime](https://wakatime.com/).*
