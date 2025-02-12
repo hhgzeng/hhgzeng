@@ -4,7 +4,8 @@
 
 <div align="center">
 <a href="https://jingz.us.kg" target="_blank"><img src="https://img.shields.io/badge/Blog-博客-%231677ff?style=flat"/></a>
-<a href="https://wakatime.com/@hhgzeng" target="_blank"><img src="https://wakatime.com/badge/user/hhgzeng.svg"></a>
+<a href="https://wakatime.com/@cd1cecb5-864f-41f2-957d-78c9301b8e70" target="_blank"><img src="https://wakatime.com/badge/user/cd1cecb5-864f-41f2-957d-78c9301b8e70.svg"></a>
+<a href="https://komarev.com/ghpvc/?username=hhgzeng&abbreviated=true" target="_blank"><img src="https://komarev.com/ghpvc/?username=hhgzeng&abbreviated=true"/></a>
 </div>
 
 ## 📚 我的项目
